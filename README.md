@@ -3,7 +3,7 @@ Esta aplicação foi um mini projeto feito em Java, que busca automaticamente in
 
 A aplicação foi feita com foco em estudar a linguagem Java com o uso de APIs e bibliotecas.
 
-# Imagens do projeo finalizado:
+# Imagens do projeto finalizado:
 ![Tela Principal](https://prnt.sc/iWhBpaufNy9j)
 <img src="https://prnt.sc/ItbpyRiGsQiP" alt="Tela Sobre"/>
 
