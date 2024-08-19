@@ -5,8 +5,7 @@ A aplicação foi feita com foco em estudar a linguagem Java com o uso de APIs e
 
 # Imagens do projeto finalizado:
 ![Tela Principal](buscar_cep/src/img/cep_java1.png)
-<img src="https://prnt.sc/ItbpyRiGsQiP" alt="Tela Sobre"/>
-
+![Tela Principal](buscar_cep/src/img/java_cep2.png)
 
 # Tecnologias que foram utilizadas neste projeto:
 - A IDE utilizada foi o Eclipse
