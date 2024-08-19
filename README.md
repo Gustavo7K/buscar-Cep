@@ -1,4 +1,4 @@
-# Aplicação de Busca de Cep
+# Aplicação de Busca de Cep 🗺
 Esta aplicação foi um mini projeto feito em Java, que busca automaticamente informaçoes de localidade como logradouro, cidade, estado a partir do numero do CEP podendo ser usado em uma aplicação comercial para otimizar o preenchimento de informaçoes de cadastro e localização de clientes e funcionarios.
 
 A aplicação foi feita com foco em estudar a linguagem Java com o uso de APIs e bibliotecas.
